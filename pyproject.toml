@@ -29,6 +29,7 @@ dependencies = [
   "sox",
   "onnxruntime",
   "einops",
+  "torchcodec>=0.10.0",
 ]
 
 [project.urls]
